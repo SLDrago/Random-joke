@@ -44,7 +44,7 @@ function App() {
                 <img alt="" src={logo} className="h-12 w-auto" />
               </a>
             </div>
-            <div className="hidden lg:flex lg:flex-1 lg:justify-end">
+            <div className="flex flex-1 justify-end">
               <button
                 className="text-sm/6 font-semibold text-gray-900 rounded-full bg-slate-100 hover:bg-slate-200 p-3"
                 onClick={handleClick}
